@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PointOfSale:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PointOfSale_jar</output-path>
+    <root id="archive" name="PointOfSale.jar">
+      <element id="module-output" name="PointOfSale" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/miglayout/miglayout-swing/5.0/miglayout-swing-5.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/formdev/flatlaf/3.5.1/flatlaf-3.5.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/miglayout/miglayout-core/5.0/miglayout-core-5.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
